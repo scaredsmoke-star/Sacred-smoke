@@ -1,0 +1,44 @@
+# Python
+*.py[cod]
+*$py.class
+*.so
+__pycache__/
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Build artifacts
+*.o
+*.a
+*.dylib
+*.dll
+
+# Compressed files (keeping tarball for now but can be moved to releases)
+# *.tar.gz
+# *.zip
+
+# Logs
+*.log
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# OS specific
+Thumbs.db
