@@ -238,7 +238,7 @@ Packages will be in `~/.local/lib/python3.14/` and survive updates.
 
 ### How often is Sacred Smoke updated?
 
-Updates follow Python release cycles and when:
+Updates follow Python release cycles. New releases are created when:
 - Security patches are needed
 - Bug fixes are available
 - New features are added

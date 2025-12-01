@@ -89,7 +89,7 @@ fi
 echo "Updating PATH in $SHELL_RC..."
 
 # Check if already in PATH
-if ! grep -q "python3.14/bin" "$SHELL_RC" 2>/dev/null; then
+if ! grep -q ".local/python3.14/bin" "$SHELL_RC" 2>/dev/null; then
     echo "" >> "$SHELL_RC"
     echo "# Sacred Smoke - Python 3.14.0" >> "$SHELL_RC"
     echo "export PATH=\"\$HOME/.local/python3.14/bin:\$PATH\"" >> "$SHELL_RC"
