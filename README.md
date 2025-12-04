@@ -25,6 +25,8 @@ The distribution tarball (`python-3.14.0-aarch64-linux-android.tar.gz`) contains
 
 **🚀 Want to get started fast?** See the [Quick Start Guide](QUICKSTART.md) for common commands and snippets.
 
+**🌐 Want to view/develop the website?** See the [Launch Guide](LAUNCH.md) for running the site locally and deployment options.
+
 ### Prerequisites
 - Android device or emulator with ARM64 (aarch64) architecture
 - Android 5.0 (API level 21) or higher
